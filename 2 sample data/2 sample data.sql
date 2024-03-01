@@ -1,3 +1,3 @@
 insert body(bodypart, num)
-select 'eyes', 2
-union select 'ears', 2
+select 'eys', 2
+union select 'ers', 2
